@@ -1,0 +1,38 @@
+_repo: Hildegarde-s-Holiday--A-Story-for-Girls_24826
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bruce, Josephine
+    alias: Bruce, Josephine H.
+    gutenberg_agent_id: '26758'
+    url: http://www.gutenberg.org/2009/agents/26758
+covers:
+- cover_type: archival
+  image_path: 24826-h/images/cover01.jpg
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2008-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+title: 'Hildegarde''s Holiday: A Story for Girls'
+url: http://www.gutenberg.org/ebooks/24826
